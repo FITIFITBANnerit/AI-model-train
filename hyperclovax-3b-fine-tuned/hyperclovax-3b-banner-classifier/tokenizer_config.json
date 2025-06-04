@@ -1,0 +1,507 @@
+{
+  "add_prefix_space": false,
+  "added_tokens_decoder": {
+    "100256": {
+      "content": "<|_unuse_missing_100256|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100257": {
+      "content": "<|endoftext|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100258": {
+      "content": "<|fim_prefix|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100259": {
+      "content": "<|fim_middle|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100260": {
+      "content": "<|fim_suffix|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100261": {
+      "content": "<|_unuse_missing_100261|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100262": {
+      "content": "<|_unuse_missing_100262|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100263": {
+      "content": "<|_unuse_missing_100263|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100264": {
+      "content": "<|_unuse_missing_100264|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100265": {
+      "content": "<|_unuse_missing_100265|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100266": {
+      "content": "<|_unuse_missing_100266|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100267": {
+      "content": "<|_unuse_missing_100267|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100268": {
+      "content": "<|_unuse_missing_100268|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100269": {
+      "content": "<|_unuse_missing_100269|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100270": {
+      "content": "<|_unuse_missing_100270|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100271": {
+      "content": "<|dummy3|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100272": {
+      "content": "<|im_start|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100273": {
+      "content": "<|im_end|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100274": {
+      "content": "<|stop|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100275": {
+      "content": "<|endofturn|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "100276": {
+      "content": "<|endofprompt|>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110491": {
+      "content": "<repo_name>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110492": {
+      "content": "<file_sep>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110493": {
+      "content": "<issue_start>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110494": {
+      "content": "<issue_comment>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110495": {
+      "content": "<issue_closed>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110496": {
+      "content": "<jupyter_start>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110497": {
+      "content": "<jupyter_text>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110498": {
+      "content": "<jupyter_code>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110499": {
+      "content": "<jupyter_output>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110500": {
+      "content": "<jupyter_script>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110501": {
+      "content": "<empty_output>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110502": {
+      "content": "<code_to_intermediate>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110503": {
+      "content": "<intermediate_to_code>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110504": {
+      "content": "<pr>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110505": {
+      "content": "<pr_status>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110506": {
+      "content": "<pr_is_merged>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110507": {
+      "content": "<pr_base>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110508": {
+      "content": "<pr_file>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110509": {
+      "content": "<pr_base_code>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110510": {
+      "content": "<pr_diff>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110511": {
+      "content": "<pr_diff_hunk>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110512": {
+      "content": "<pr_comment>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110513": {
+      "content": "<pr_event_id>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110514": {
+      "content": "<pr_review>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110515": {
+      "content": "<pr_review_state>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110516": {
+      "content": "<pr_review_comment>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110517": {
+      "content": "<pr_in_reply_to_review_id>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110518": {
+      "content": "<pr_in_reply_to_comment_id>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110519": {
+      "content": "<pr_diff_hunk_comment_line>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110520": {
+      "content": "<NAME>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110521": {
+      "content": "<EMAIL>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110522": {
+      "content": "<KEY>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "110523": {
+      "content": "<PASSWORD>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    }
+  },
+  "additional_special_tokens": [
+    "<|endoftext|>",
+    "<|fim_prefix|>",
+    "<|fim_middle|>",
+    "<|fim_suffix|>",
+    "<|endofprompt|>",
+    "<|_unuse_missing_100256|>",
+    "<|_unuse_missing_100261|>",
+    "<|_unuse_missing_100262|>",
+    "<|_unuse_missing_100263|>",
+    "<|_unuse_missing_100264|>",
+    "<|_unuse_missing_100265|>",
+    "<|_unuse_missing_100266|>",
+    "<|_unuse_missing_100267|>",
+    "<|_unuse_missing_100268|>",
+    "<|_unuse_missing_100269|>",
+    "<|_unuse_missing_100270|>",
+    "<|dummy3|>",
+    "<|im_start|>",
+    "<|im_end|>",
+    "<|stop|>",
+    "<|endofturn|>",
+    "<repo_name>",
+    "<file_sep>",
+    "<issue_start>",
+    "<issue_comment>",
+    "<issue_closed>",
+    "<jupyter_start>",
+    "<jupyter_text>",
+    "<jupyter_code>",
+    "<jupyter_output>",
+    "<jupyter_script>",
+    "<empty_output>",
+    "<code_to_intermediate>",
+    "<intermediate_to_code>",
+    "<pr>",
+    "<pr_status>",
+    "<pr_is_merged>",
+    "<pr_base>",
+    "<pr_file>",
+    "<pr_base_code>",
+    "<pr_diff>",
+    "<pr_diff_hunk>",
+    "<pr_comment>",
+    "<pr_event_id>",
+    "<pr_review>",
+    "<pr_review_state>",
+    "<pr_review_comment>",
+    "<pr_in_reply_to_review_id>",
+    "<pr_in_reply_to_comment_id>",
+    "<pr_diff_hunk_comment_line>",
+    "<NAME>",
+    "<EMAIL>",
+    "<KEY>",
+    "<PASSWORD>"
+  ],
+  "bos_token": "<|endoftext|>",
+  "chat_template": [
+    {
+      "name": "default",
+      "template": "<|im_start|>tool_list\n<|im_end|>\n{% for message in messages %}\n{% set content = message['content'] %}\n{% set role = message['role'] %}\n{% if loop.first and role != 'system' %}\n<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n{% endif %}\n{% if message['content'] is string %}\n<|im_start|>{{ role }}\n{{ message['content'] }}<|im_end|>\n{% else %}\n{% if content['type'] == 'image' %}\n<|im_start|>{{ role }} (mime)\n{\"type\": \"image/jpeg\", \"filename\": \"{{ content['filename'] }}\"}<|im_end|>\n<|im_start|>{{ role }} (vector)\n<|dummy3|><|im_end|>\n<|im_start|>image/aux\n다음 중 ocr은 사진에서 검출된 글자이고, lens_keyword는 사진에서 추출된 keyword와 bbox 위치입니다. bbox는 0~1 사이로 정규화된 [x1, y1, x2, y2]의 형태입니다. 참고하여 답변하세요. {\"ocr\": \"{{ content['ocr'] or '' }}\", \"lens_keywords\": \"{{ content['lens_keywords'] or '' }}\", \"lens_local_keywords\": \"{{ content['lens_local_keywords'] or '' }}\"}<|im_end|>\n{% elif content['type'] == 'video' %}\n<|im_start|>{{ role }} (mime)\n{\"type\": \"video/mp4\", \"filename\": \"{{ content['filename'] }}\"}<|im_end|>\n<|im_start|>{{ role }} (vector)\n<|dummy3|><|im_end|>\n<|im_start|>image/aux\n{% if content.get('is_final_grid') %}\n다음 중 lens_keyword는 사진에서 추출된 keyword와 bbox 위치입니다. bbox는 0~1 사이로 정규화된 [x1, y1, x2, y2]의 형태입니다. video_time_stamp는 비디오에서 해당 구간의 시간 정보입니다. speech_to_text는 비디오 속에서의 대화, 음성, 소리, 대사, 그리고 말을 전부 글로 받아 적은 것 입니다. 참고하여 답변하세요. {\"video_time_stamp\": \"{{ content['video_time_stamp'] }}\", \"lens_keywords\": \"{{ content.get('lens_keywords', '') }}\", \"lens_local_keywords\": \"{{ content.get('lens_local_keywords', '') }}\", \"speech_to_text\": \"{{ content.get('speech_to_text', '') }}\"}\n{% else %}\n다음 중 video_time_stamp는 비디오에서 해당 구간의 시간 정보입니다. 참고하여 답변하세요. {\"video_time_stamp\": \"{{ content['video_time_stamp'] }}\"}\n{% endif %}<|im_end|>\n{% elif content['type'] == 'text' %}\n<|im_start|>{{ role }}\n{{ content['text'] }}<|im_end|>\n{% endif %}\n{% endif %}\n{% endfor %}\n{% if add_generation_prompt %}\n<|im_start|>assistant\n{% endif %}\n"
+    }
+  ],
+  "clean_up_tokenization_spaces": true,
+  "eos_token": "<|endofturn|>",
+  "extra_special_tokens": {},
+  "model_max_length": 1000000000000000019884624838656,
+  "pad_token": "<|endofturn|>",
+  "tokenizer_class": "GPT2Tokenizer",
+  "unk_token": "<|endoftext|>"
+}
