@@ -31,4 +31,13 @@ https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Vision-Instruct-3B
 ### Fine-tuning Notebook
 `hyperclovax-3b-fine-tuning.ipynb`
 - HyperCLOVAX-SEED-Vision-Instruct-3B 모델의 파인튜닝 노트북  
+</br>
 
+### Result
+|  | Pre-trained | Fine-tuned |
+|------|-------|-------|
+|Accuracy               | 0.5981   | 0.8521   |
+|Macro Precision        | 0.5961   | 0.8586   |
+|Macro Recall           | 0.5640   | 0.8416   |
+|Macro F1-score         | 0.5711   | 0.8491   |
+|Avg time per text(sec) | 1.5629   | 1.8610   |
